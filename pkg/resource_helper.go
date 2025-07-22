@@ -1,5 +1,1 @@
 package pkg
-
-func Test() {
-
-}
